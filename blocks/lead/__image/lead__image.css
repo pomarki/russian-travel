@@ -1,0 +1,6 @@
+.lead__image {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 100%;
+}
