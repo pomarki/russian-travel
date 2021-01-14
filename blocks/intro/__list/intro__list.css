@@ -1,23 +1,10 @@
 .intro__list {
-    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 12px;
-    line-height: 1.5;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    
-}
-@media screen and (max-width: 768px) {
-    .intro__list {
-        margin-left: 24px;
-        
-    }
-}
-@media all and (max-width: 320px) {
-    .intro__list {
-        margin-left: 16px;
-        
-    }
+  font-family: "Inter", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 1.5;
+  list-style-type: none;
+  margin: 33px 0 0 0;
+  padding: 0;
 }
