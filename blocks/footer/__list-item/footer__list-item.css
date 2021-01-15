@@ -2,8 +2,3 @@
   margin: 0;
   display: flex;
 }
-@media all and (max-width: 670px) {
-  .footer__list-item {
-    margin: 0 0 32px 0;
-  }
-}
